@@ -5,8 +5,8 @@ import (
 
 	"rsc.io/quote/v3"
 
-	mypkg "github.com/tkxkd0159/go-chain/hello"
-	"github.com/tkxkd0159/go-chain/hello/nums"
+	mypkg "github.com/tkxkd0159/go-chain/module_test/hello"
+	"github.com/tkxkd0159/go-chain/module_test/hello/nums"
 )
 
 func main() {
