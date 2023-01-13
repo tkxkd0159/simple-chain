@@ -4,7 +4,7 @@ My light chain client implemented in Golang
 
 # Implementations
 * Validation
-* Persistence
+* Persistency
 * PoW consensus (+ Miner rewards)
 * Mempool
 * UTXO
